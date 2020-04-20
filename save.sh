@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # If a command fails then the deploy stops
-set -e
+#set -e
 
 git add -A .
 
