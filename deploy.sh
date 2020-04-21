@@ -1,8 +1,5 @@
 #!/bin/sh
 
-# If a command fails then the deploy stops
-set -e
-
 if output=$(git status --porcelain) && [ -z "$output" ]; then
   # Working directory clean
   # Delete all the old site fragments
