@@ -15,6 +15,7 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 0
 +++
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf9GHUFdDjQQbRgutsKDoGyDHug8RwQa6xFuLhblQLOguEqlw/viewform?embedded=true" width="640" height="905" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
