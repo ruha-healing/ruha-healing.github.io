@@ -65,42 +65,21 @@ rm Untitled.md
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/post/introducing-ruha-healinggg/</guid>
       <description>&lt;h2 id=&#34;introducing-ruha-healing&#34;&gt;Introducing Ruha Healing&lt;/h2&gt;
-&lt;p&gt;Hey this is my new website&amp;hellip;
-
-&lt;a href=&#34;https://www.spiegel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hier her&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;eine Sache&lt;/li&gt;
-&lt;li&gt;zweite Sache&lt;/li&gt;
-&lt;li&gt;Dritte Sache&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-a-new-blog-post-as-usualhttpssourcethemescomacademicdocsmanaging-contentcreate-a-blog-post&#34;&gt;Create a new blog post 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your academia website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
-hugo new  --kind post post/my-post
-cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
-
-# Copy the contents of Untitled.md and append it to index.md:
-cat Untitled.md | tee -a index.md
-
-# Remove the temporary file:
-rm Untitled.md
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
-&lt;p&gt;To set a 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with academia&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sat Nam&lt;/strong&gt; &amp;amp; Welcome to &lt;strong&gt;Ruha Healing&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;I am very happy that you landed on my website and are interested in getting to know me and my work.
+For many years now I have been practicing Yoga and especially Kundalini Yoga has hit me right into my heart. I have found a true treasure in it, which I can hardly wait to share with you. Finally it has happened that my heart project goes to the public and I can share all my ideas and offers with you.&lt;/p&gt;
+&lt;p&gt;Ruha Healing deals with various topics around &lt;strong&gt;spirituality&lt;/strong&gt;, Yoga - &lt;strong&gt;Kundalini Yoga&lt;/strong&gt; in particular, &lt;strong&gt;meditation&lt;/strong&gt;, connection to the &lt;strong&gt;soul&lt;/strong&gt; and the whole &lt;strong&gt;body-mind-soul-system&lt;/strong&gt;. I want to accompany you on your very individual journey to your inner core, your self, &lt;strong&gt;your true essence - your SAT NAM&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;how-does-this-work&#34;&gt;How does this work?&lt;/h3&gt;
+&lt;p&gt;I offer you &lt;strong&gt;Kundalini Yoga by Yogi Bhajan - online and offline&lt;/strong&gt;.
+With the online offer you can join the yoga on a mobile device of your choice from wherever you want - as long as you have a good internet connection there. We will &lt;strong&gt;meet virtually&lt;/strong&gt; and you will be able to &lt;strong&gt;experience the special technique of Kundalini Yoga&lt;/strong&gt; - with you, on your mat and &lt;strong&gt;together on the way to your Sat Nam&lt;/strong&gt;.
+You can also take part in my yoga classes offline (as soon as the situation in times of the corona virus allows more closeness and publicity).
+Additionally, it is possible that you book a yoga course with me for yourself, a group or a special event. I will discuss the details directly with you if you are interested.
+Moreover, I will write blog posts and share some specific Kundalini Yoga knowlede with you.&lt;/p&gt;
+&lt;h3 id=&#34;importance-of-ruha-healing&#34;&gt;Importance of Ruha Healing&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Ruha&lt;/strong&gt; is the word for &lt;strong&gt;soul&lt;/strong&gt; on Gurmukhi, which originated from the Indian scriptures. This language is used in Kundalini Yoga for many terms and mantras. Connected with the word healing I offer you a way to your &lt;strong&gt;individual soul healing&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Through my work I want to give you the opportunity to &lt;strong&gt;deepen the access to your soul and to start a process of healing&lt;/strong&gt;. The human soul is often taken up by layers that arise from the outside, for example educated behavior, implanted beliefs, pressure on various levels, expectations of other people and much more. Through Kundalini Yoga your soul can be freed from all this stress and influence - step by step you can reach your true self and &lt;strong&gt;recognize you within yourself&lt;/strong&gt;. You can let things go and heal in a gentle way with this yogic tool.&lt;/p&gt;
+&lt;p&gt;In order to heal yourself and your soul, it is beneficial to develop a &lt;strong&gt;regular yoga practice&lt;/strong&gt; and &lt;strong&gt;dedicate yourself&lt;/strong&gt; fully to your path. Try it out, let yourself go, start or continue your &lt;strong&gt;spiritual journey&lt;/strong&gt;. Wherever you are right now in life and in the access to your self - everything is right as it is, you have all possibilities to unfold. Start now&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I am very happy to welcome you in my classes, to get to know you and to support you on your very own way.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
