@@ -7,7 +7,7 @@ git commit -m "Saving"
 
 git commit -m "$save_msg"
 
-git pull origin dev
+git pull --no-edit origin dev
 
 printf "\033[0;32mPushing to GitHub...\033[0m\n"
 
