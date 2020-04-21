@@ -1,5 +1,5 @@
 ---
-title: Introducing Ruha Healing
+title: Introducing Ruha Healing now
 subtitle: Ledjdjdrn how to blog in academia using Jupyter notebooks
 summary: Learnkekekeg in academia using Jupyter notebooks
 authors:
