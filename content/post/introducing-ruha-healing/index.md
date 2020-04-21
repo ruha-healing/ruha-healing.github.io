@@ -6,15 +6,16 @@ authors:
 - admin
 tags: []
 categories: []
-date: "2019-02-05T00:00:00Z"
+date: "2020-04-21T00:00:00Z"
 featured: false
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'That's me (/runa-healing.github.io/content/post/indroducing-ruha-healing/featured.jpg)'
   focal_point: ""
   preview_only: false
 
@@ -28,10 +29,6 @@ projects: []
 # Set captions for image gallery.
 
 ---
-
-
-
-## Introducing Ruha Healing
 
 **Sat Nam** & Welcome to **Ruha Healing**!
 
