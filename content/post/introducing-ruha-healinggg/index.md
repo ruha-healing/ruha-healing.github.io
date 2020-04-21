@@ -53,6 +53,6 @@ Moreover, I will write blog posts and share some specific Kundalini Yoga knowled
 
 Through my work I want to give you the opportunity to **deepen the access to your soul and to start a process of healing**. The human soul is often taken up by layers that arise from the outside, for example educated behavior, implanted beliefs, pressure on various levels, expectations of other people and much more. Through Kundalini Yoga your soul can be freed from all this stress and influence - step by step you can reach your true self and **recognize you within yourself**. You can let things go and heal in a gentle way with this yogic tool. 
 
-In order to heal yourself and your soul, it is beneficial to develop a **regular yoga practice** and **dedicate yourself** fully to your path. Try it out, let yourself go, start or continue your **spiritual journey**. Wherever you are right now in life and in the access to your self - everything is right as it is, you have all possibilities to unfold. Start now... 
+In order to experience this, it is beneficial to develop a **regular yoga practice** and **dedicate yourself** fully to your path. Try it out, let yourself go, start or continue your **spiritual journey**. Wherever you are right now in life and in the access to your self - everything is right as it is, you have all possibilities to unfold. Start now... 
 
 **I am very happy to welcome you in my classes, to get to know you and to support you on your very own way.**  
