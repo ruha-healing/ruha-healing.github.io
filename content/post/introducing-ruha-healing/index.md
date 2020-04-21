@@ -15,7 +15,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 
 image:
-  caption: 'That's me (/runa-healing.github.io/content/post/indroducing-ruha-healing/featured.jpg)'
+  caption: 'Me doing yoga'
   focal_point: ""
   preview_only: false
 
