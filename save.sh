@@ -2,8 +2,7 @@
 
 git add -A .
 
-save_msg="rebuilding site $(date)"
-git commit -m "Saving"
+save_msg="Saving site state $(date)"
 
 git commit -m "$save_msg"
 
