@@ -37,7 +37,7 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#join"
+  url = "#next_sessions"
   label = "Join live session"
   icon_pack = "fas"
   icon = "walking"
