@@ -48,4 +48,4 @@ hero_media = "hero-academic.png"
 
 # Note. An optional note to show underneath the links.
 +++
-## Welcome to **Ruha Healing**. I'm **Elvira** and **Ruha** means **Soul** in the Gurmukhī language of Kundalini Yoga.
+## Welcome to **Ruha Healing**. I'm **Elvira** and **Ruha** means **Soul** in the language of Kundalini Yoga.
