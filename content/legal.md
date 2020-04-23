@@ -15,12 +15,12 @@ header:
 
 #### Address
 
-Elvira Eulitz
-Im Großen Büchenfeld 24
-30453 Hannover
-Germany
+Elvira Eulitz  
+Im Großen Büchenfeld 24  
+30453 Hannover  
+Germany  
 
-E-Mail:
+E-Mail:  
 ruhahealing@gmail.com
 
 
