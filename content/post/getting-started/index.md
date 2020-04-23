@@ -1,7 +1,8 @@
 ---
-title: 'academia: foo bsite builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'Day 1 of my green diet'
+subtitle: 'How this day worked out for me'
+summary: 'See my menu for the first day of my green diet project. Find out about my struggles, my feelings and what I already learned.'
+
 authors:
 - admin
 tags:

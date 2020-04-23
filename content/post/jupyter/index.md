@@ -1,7 +1,7 @@
 ---
-title: Display Jupyter Notebooks with academia
-subtitle: Learn how to blog in academia using Jupyter notebooks
-summary: Learn how to blog in academia using Jupyter notebooks
+title: 'Green diet project'
+subtitle: 'Green diet is a specific Kundalini Yoga diet which I will do for 7 days.'
+summary: 'Join my process of the specific green diet, see my meals, get inspired and maybe join me next time.' 
 authors:
 - admin
 tags: []
