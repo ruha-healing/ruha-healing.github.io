@@ -105,7 +105,9 @@ phone = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  {icon = "facebook-f", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/ruhahealing"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/ruhahealing"},
+  {icon = "instagram", icon_pack = "fab", name = "Instagram", link = "https://www.instagram.com/ruhahealing/"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -120,7 +122,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "ruhahealing"
 
 ############################
 ## Regional Settings

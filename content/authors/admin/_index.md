@@ -30,6 +30,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: facebook-f
+  icon_pack: fab
+  link: https://www.facebook.com/ruhahealing
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ruhahealing
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/ruhahealing/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
