@@ -76,7 +76,7 @@ This course is offered **free of charge**. Thus I hope to do something good for 
 
 Feel free to **sign up for the Sunday class right here**!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdTnjS-7jCCpNDa8fqbtLhQ0lp9MYRzGavpt-oIq_avyIRZpw/viewform?embedded=true" width="640" height="815" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdTnjS-7jCCpNDa8fqbtLhQ0lp9MYRzGavpt-oIq_avyIRZpw/viewform?embedded=true" width="100%" height="915" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 To stay up to date about my next courses, new blog posts and more, you can also follow me on facebook, Instagram and Twitter. I am happy to be connected with you. 
 
