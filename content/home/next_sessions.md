@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 weight = 30  # Order that this section will appear.
 +++
 
-### Sunday, 6 PM Central European Time
+### Sunday, April 26, 6 PM Central European Time
 
 This is a **free** class as a gift to help us through this exceptional time.
 
