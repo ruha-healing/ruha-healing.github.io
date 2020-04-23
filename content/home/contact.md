@@ -17,4 +17,4 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctwSu9vF_8fZL-WA_wO5SGAAwRqlicLXBPT4VhFZNZqr2xDw/viewform?embedded=true" width="640" height="980" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctwSu9vF_8fZL-WA_wO5SGAAwRqlicLXBPT4VhFZNZqr2xDw/viewform?embedded=true" width="100%" height="980" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
