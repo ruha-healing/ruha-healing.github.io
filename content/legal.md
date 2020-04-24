@@ -63,10 +63,18 @@ The user can find the terms of use and data protection of Google Analytics [here
 
 The mentioned data are stored for 26 months. If the data is no longer required, it will be deleted immediately.
 
+#### Contact form
+
+If you send us enquiries via the contact form, your details from the enquiry form, including the contact data you provide there, will be stored by us for the purpose of processing the enquiry and in the event of follow-up questions. We will not pass on this data without your consent.
+
+The processing of the data entered in the contact form is thus exclusively based on your consent (Art. 6 para. 1 lit. a DSGVO). You can revoke this consent at any time. For this purpose, an informal notification by e-mail to us is sufficient. The legality of the data processing operations carried out up to the time of revocation remains unaffected by the revocation.
+
+The data entered by you in the contact form will remain with us until you request us to delete it, revoke your consent to its storage or the purpose for which it was stored ceases to apply (e.g. after your enquiry has been processed). Mandatory legal provisions - in particular retention periods - remain unaffected.
+
 
 #### Objection, revocation, information, correction, blocking, deletion
 
-The user of the Elvira Eulitz website has the right to revoke his consent to the use of his data according to Art. 7, par. 3 of the DSGVO and to request information about the data collected in the context of the use at any time. In addition, the user has the right to request the correction, blocking or deletion of this data within the legally prescribed framework. To exercise the above rights or to declare any objection to the creation of a user profile, the user sends an e-mail to the e-mail address stated in the imprint of the website and - if necessary for his request - states his IP address and the time of access. Elvira Eulitz will then provide the requested information and arrange for the data to be corrected, blocked or deleted as far as possible. Information may also be provided electronically on request. In addition, the user has the right of appeal under Art. 77 DSGVO.
+The user of the Ruha Healing website has the right to revoke his consent to the use of his data according to Art. 7, par. 3 of the DSGVO and to request information about the data collected in the context of the use at any time. In addition, the user has the right to request the correction, blocking or deletion of this data within the legally prescribed framework. To exercise the above rights or to declare any objection to the creation of a user profile, the user sends an e-mail to the e-mail address stated in the imprint of the website and - if necessary for his request - states his IP address and the time of access. Elvira Eulitz will then provide the requested information and arrange for the data to be corrected, blocked or deleted as far as possible. Information may also be provided electronically on request. In addition, the user has the right of appeal under Art. 77 DSGVO.
 
 Elvira Eulitz acts as data protection officer of our company. Mrs. Eulitz can be reached at any time by our users by email to ruhahealing@gmail.com if, for example, users wish to receive further information about the processing of personal data.
 
