@@ -70,7 +70,7 @@ We'll be using [Zoom](https://zoom.us/) for these online classes so you can join
 
 All you need is to put your matress at your favourite place where you have enough space to move your body, grab a cushion and blanket, prepare some drinking water and meet me online to do yoga!
 
-The course starts on **Sunday, April 26, 6 PM CET** ([Find your local time](https://savvytime.com/converter/ca-san-francisco-to-ny-new-york-city-germany-berlin-singapore-singapore/apr-26-2020/3pm)) but the Zoom meeting will open up **20 minutes in advance** and I recommend to show up early as participation in this course is limited.
+The course starts on **Sunday, April 26, 6 PM CET** ([Find your local time](https://savvytime.com/converter/germany-berlin-to-ca-san-francisco-ny-new-york-city-singapore-singapore/apr-26-2020/6pm)) but the Zoom meeting will open up **20 minutes in advance** and I recommend to show up early as participation in this course is limited.
 
 This course is offered **free of charge**. Thus I hope to do something good for you in these wild times and sweeten your Sunday a little. 
 

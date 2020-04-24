@@ -14,7 +14,7 @@ We do an **one hour beginner Kundalini set** together. You can join from **where
 
 #### ⏱️ When
 
-The class starts at **6 PM Central European Time** ([Find your local time](https://savvytime.com/converter/ca-san-francisco-to-ny-new-york-city-germany-berlin-singapore-singapore/apr-26-2020/3pm)) but the [Zoom](https://zoom.us/) room opens **20 minutes earlier**. I recommend to show up early as participation is limited.
+The class starts at **6 PM Central European Time** ([Find your local time](https://savvytime.com/converter/germany-berlin-to-ca-san-francisco-ny-new-york-city-singapore-singapore/apr-26-2020/6pm) but the [Zoom](https://zoom.us/) room opens **20 minutes earlier**. I recommend to show up early as participation is limited.
 
 #### 💻 How
 
