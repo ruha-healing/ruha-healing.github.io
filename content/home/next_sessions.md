@@ -4,17 +4,17 @@ headless = true  # This file represents a page section.
 weight = 30  # Order that this section will appear.
 +++
 
-### Sunday, April 26, 6 PM CEST
+### Sunday, May 3, 6 PM CEST
 
 This is a **free** class as a gift to help us through this exceptional time.
 
 ####  🎉  What
 
-We do an **one hour beginner Kundalini set** together. You can join from **wherever** you are. All you need is an internet enabled device such as a laptop, tablet or phone to be able to see and listen to my instructions. It's going to be fun!
+We do an **one to one and a half hour beginner Kundalini set** together. You can join from **wherever** you are. All you need is an internet enabled device such as a laptop, tablet or phone to be able to see and listen to my instructions. It's going to be fun!
 
 #### ⏱️ When
 
-The class starts at **6 PM Central European Summer Time** ([Find your local time](https://savvytime.com/converter/germany-berlin-to-ca-san-francisco-ny-new-york-city-singapore-singapore/apr-26-2020/6pm) but the [Zoom](https://zoom.us/) room opens **20 minutes earlier**. I recommend to show up early as participation is limited.
+The class starts at **6 PM Central European Summer Time** ([Find your local time](https://savvytime.com/converter/germany-berlin-to-ca-san-francisco-ny-new-york-city-singapore-singapore/may-3-2020/6pm) but the [Zoom](https://zoom.us/) room opens **20 minutes earlier**. I recommend to show up early as participation is limited.
 
 #### 💻 How
 
