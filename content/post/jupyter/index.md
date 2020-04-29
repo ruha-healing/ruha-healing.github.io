@@ -1,7 +1,7 @@
 ---
 title: 'Green diet project'
 subtitle: 'Green diet is a specific Kundalini Yoga diet which I will do for 7 days.'
-summary: 'Join my process of the specific green diet, see my meals, get inspired and maybe join me next time.' 
+summary: 'Join my process of the specific green diet from Kundalini Yoga by Yogi Bhajan, see my meals, get inspired and maybe join me next time.' 
 authors:
 - admin
 tags: []
@@ -53,25 +53,8 @@ gallery_item:
   image: theme-strawberry.png
 ---
 
+Green diet? What's that?
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
-
-
-
-
-![png](./academia_0_0.png)
-
-
-
-
-```python
-print("Welcome to academia!")
-```
-
-    Welcome to academia!
 
 
 ## Install Python and Jupyter
