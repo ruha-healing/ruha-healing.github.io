@@ -61,7 +61,7 @@ There really is an endless amount and range of diets and it feels like there is 
 
 The green diet is alkaline and thus balances your acid-base balance with a focus on the alkaline. In doing so, you deacidify your body and start a detoxification process in your liver, which eventually rebuilds your whole system. In addition, your skin is cleaned and toxic mucus is removed from your liver. Weight loss can also be a side effect, but this is not the main focus. This and even more happens mainly due to the ingredient 
 
-### CHLOROPHYLL. 
+<center>CHLOROPHYLL.</center>
 
 Green food contains chlorophyll to varying degrees. This can have a health-promoting effect on your body due to the amount absorbed. This strengthens your immune system and your defences. Chlorophyll is also an antioxidant and protects your body from free radicals. Your magnesium and iron balance is improved and your blood cells are purified and new blood cells are formed. Chlorophyll is also known as a natural anti-aging agent.
 
