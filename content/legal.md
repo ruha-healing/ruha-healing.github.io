@@ -29,7 +29,16 @@ Elvira Eulitz
 
 #### Copyright
 
-All texts, pictures and illustrations on this website are licensed under CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International) , unless otherwise stated
+All texts, pictures and illustrations on this website are licensed under CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International), unless otherwise stated.
+
+#### Disclaimer
+The content of ruhahealing.com is for information purposes only. It can and should in no case replace medical advice, diagnosis or treatment. You should never use the information provided here as the sole source for health-related decisions.
+
+The content of ruhahealing.com does not claim to be complete, nor can the actuality, accuracy and balance of the information provided be guaranteed. Under no circumstances does it replace professional advice from a doctor or pharmacist and it may not be used as a basis for independent diagnosis and the beginning, modification or termination of a treatment of diseases.
+
+**Always consult a doctor of your choice in case of health questions or complaints!**
+
+For any damage or inconvenience caused by the use or misuse of the information on ruhahealing.com, ruhahealing.com cannot be held responsible - neither directly nor indirectly.
 
 ### Privacy
 
@@ -77,4 +86,5 @@ The data entered by you in the contact form will remain with us until you reques
 The user of the Ruha Healing website has the right to revoke his consent to the use of his data according to Art. 7, par. 3 of the DSGVO and to request information about the data collected in the context of the use at any time. In addition, the user has the right to request the correction, blocking or deletion of this data within the legally prescribed framework. To exercise the above rights or to declare any objection to the creation of a user profile, the user sends an e-mail to the e-mail address stated in the imprint of the website and - if necessary for his request - states his IP address and the time of access. Elvira Eulitz will then provide the requested information and arrange for the data to be corrected, blocked or deleted as far as possible. Information may also be provided electronically on request. In addition, the user has the right of appeal under Art. 77 DSGVO.
 
 Elvira Eulitz acts as data protection officer of our company. Mrs. Eulitz can be reached at any time by our users by email to ruhahealing@gmail.com if, for example, users wish to receive further information about the processing of personal data.
+
 
