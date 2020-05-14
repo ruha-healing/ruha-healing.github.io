@@ -1,5 +1,5 @@
 ---
-title: 'Green diet project - Day 2 & 3'
+title: 'Green diet project - Day 5 & 6'
 subtitle: 
 summary: 'I tell you about my second and third day of this specific Kundalini Yoga diet called GREEN DIET.' 
 authors:
@@ -46,6 +46,6 @@ projects: []
 ---
 <center>
 
-# Day 4
+# Day 5
 </center>
 
