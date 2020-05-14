@@ -1,5 +1,5 @@
 ---
-title: 'Green diet project - Day 3 & 4'
+title: 'Green diet - Day 3 & 4'
 subtitle: 
 summary: 'Day 3 and 4 of my green diet follow. Take a look at what I have on the menu these days and how my process is continues.' 
 authors:
