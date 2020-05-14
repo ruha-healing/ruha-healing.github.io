@@ -68,7 +68,7 @@ Later in the evening I went to bed with a little hunger, but also with a **light
 
 <center>
 
-# Day 2
+## Day 2
 </center>
 
 The morning began as usual and I prepared my **green fruit breakfast**. It was the same as yesterday, a big bowl full of delicious fresh fruit. Yammi! 🍏🍐🥝🍈
