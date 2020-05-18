@@ -59,4 +59,4 @@ Well, so much for the theory of this detoxifying, purifying diet form. I have de
 I will share the process and several of my meals on my blog with you in the coming days. Be curious and let yourself be inspired. 💫
 
 ***Important note:**
-In my blog you can find tips and insights on the topics nutrition, health, body, mind and soul. These information are primarily based on my own experiences with it, so they can in no way replace a visit to the doctor. Please read my [**Disclaimer**](https://ruhahealing.com/legal/) and consult your doctor if you have unclear symptoms.*
+On my blog you can find tips and insights on the topics nutrition, health, body, mind and soul. These information are primarily based on my own experiences with it, so they can in no way replace a visit to the doctor. Please read my [**Disclaimer**](https://ruhahealing.com/legal/) and consult your doctor if you have unclear symptoms.*

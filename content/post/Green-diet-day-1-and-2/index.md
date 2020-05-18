@@ -93,3 +93,6 @@ In addition I ate some of the **olives**. I mixed them with the herbs I got sepa
 
 All in all I can say about these first two days that I definitely **enjoyed them a lot**. It is of course a change for the body, I felt that. Nevertheless, I also noticed that the green diet was good for me. I felt pleasantly satiated and even though I ate more food than usual, I felt lighter inside than usual. I was very **curious how the next days would work out**. 
 If you are also curious, feel free to follow me on this blog or social media, where I always share all the latest news with you. 🤩
+
+***Important note:**
+On my blog you can find tips and insights on the topics nutrition, health, body, mind and soul. These information are primarily based on my own experiences with it, so they can in no way replace a visit to the doctor. Please read my [**Disclaimer**](https://ruhahealing.com/legal/) and consult your doctor if you have unclear symptoms.*

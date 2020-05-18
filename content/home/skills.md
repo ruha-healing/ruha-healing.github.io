@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Live Kundalini Classes"
+title = "Live Kundalini Yoga Classes"
 subtitle = ""
 
 # Showcase personal skills or business features.

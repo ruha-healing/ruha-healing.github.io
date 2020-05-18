@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Kundalini Trainer
+role: Kundalini Yoga Trainer
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Kundalini trainer and organize live classes online, onsite and for corporate businesses.
+bio: I'm a Kundalini Yoga trainer and organize live classes online, onsite and for corporate businesses.
 
 interests:
 - Kundalini
@@ -52,4 +52,4 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-I'm a Kundalini trainer and organize live classes online, onsite and for corporate businesses.
+I'm a Kundalini Yoga trainer and organize live classes online, onsite and for corporate businesses.
