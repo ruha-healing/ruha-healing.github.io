@@ -9,6 +9,7 @@ categories: []
 date: "2020-05-14T00:00:00Z"
 featured: false
 draft: false
+join_banner: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

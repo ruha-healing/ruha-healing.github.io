@@ -9,6 +9,7 @@ categories: []
 date: "2020-05-12T00:00:00Z"
 featured: false
 draft: false
+join_banner: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

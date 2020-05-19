@@ -3,3 +3,48 @@
   display: inline;
   padding: 3px;
 }
+
+.join-banner {
+  background-color: #94c11f;
+
+  img {
+    display: inline;
+    max-width: 60%;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  @media (min-width: 768px) {
+    img {
+      max-width: 70%;
+    }
+  }
+
+  .left-col {
+    background-color: #769a19;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .right-box {
+    padding: 50px;
+  }
+
+  @media (min-width: 768px) {
+    .right-box {
+      padding: 25px;
+    }
+  }
+
+  h2 {
+    color: #f9fdf0;
+    font-weight: bold;
+  }
+
+  .btn {
+    border-color: #769a19;
+    background-color: transparent;
+    font-size: 1rem;
+  }
+}
