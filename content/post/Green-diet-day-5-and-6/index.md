@@ -1,14 +1,15 @@
 ---
 title: 'Green diet project - Day 5 & 6'
 subtitle: 
-summary: 'I tell you about my second and third day of this specific Kundalini Yoga diet called GREEN DIET.' 
+summary: 'My green diet project goes on and I share more insights with you about my meals and more.' 
 authors:
 - admin
 tags: []
 categories: []
-date: "2020-05-05T00:00:00Z"
+date: "2020-05-20T00:00:00Z"
 featured: false
 draft: true
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
