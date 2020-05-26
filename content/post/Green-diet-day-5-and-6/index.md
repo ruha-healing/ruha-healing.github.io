@@ -1,5 +1,5 @@
 ---
-title: 'Green diet project - Day 5 & 6'
+title: 'Green diet - Day 5 & 6'
 subtitle: 
 summary: 'My green diet project goes on and I share more insights with you about my meals and feelings with it.' 
 authors:
@@ -82,3 +82,6 @@ In the afternoon I started the **smoothie** production again. This time I used a
 ![Smoothie](Smoothie_day6.jpg)
 
 I warmed up the leftovers from lunch again for the evening and sat down for dinner in the warming evening sun. This sixth day of the green diet was again very **beneficial and enriching for my body**.I felt **strengthened and satisfied**. The green diet is becoming easier and easier for me and I can very well imagine to follow this diet for a longer period next time. 💚
+
+***Important note:**
+On my blog you can find tips and insights on the topics nutrition, health, body, mind and soul. These information are primarily based on my own experiences with it, so they can in no way replace a visit to the doctor. Please read my [**Disclaimer**](https://ruhahealing.com/legal/) and consult your doctor if you have unclear symptoms.*
