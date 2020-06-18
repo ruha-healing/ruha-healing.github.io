@@ -40,7 +40,7 @@ More precisely, this means that the first chakra reduces everything to the **bas
 The root chakra also serves to **automate behaviour**. Consequently, this is also the place for habits and contains the strength to develop regulated habits. 
 
 The root chakra is assigned to the area of **excretion**, the **anus** and the **large intestine**. Excretion here means everything from physical to emotional and mental. 
-In order to **survive**, the human being needs a **functioning ability to excrete**, which is provided by the energy of this chakra. So there is a considerable protective factor connected with the first chakra. With this knowledge you can make yourself aware that you have the ability to release negative influences (people, thoughts, environments and more) with the help of the power of the first chakra.
+In order to **survive**, the human being needs a **functioning ability to excrete**, which is provided by the energy of this chakra. So there is a considerable protective factor connected with the first chakra. With this knowledge you can make yourself aware that you have the ability to release negative influences (e.g. people, thoughts, environments and more) with the help of the power of the first chakra.
 
 It is quite exciting to realize the fact that the own **emotions** are connected to the energies in the chakras and are influenced by them. Depending on the intensity of the connection to the chakra, the different forms of emotions can be felt within yourself. 
 
@@ -76,7 +76,7 @@ Here you will find a list of **positions that can harmonize and strengthen the f
 - Crow position
 - Chair position
 - Body drops
-- Frog
+- Frog position
 - Mulbandh
 - Forward bending
 - Kick your bottom with your feet lying on your stomach
