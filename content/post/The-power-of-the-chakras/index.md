@@ -1,6 +1,7 @@
 ---
 title: 'The power of the chakras'
-summary: 'I take you on a journey to the theory of chakras and introduce you to the first chakra "Muladhara". Be excited to get to know and understand the specific energy that this chakra produces.'
+subtitle: A series about the 8 chakras of Kundalini Yoga - *Root Chakra*
+summary: 'I take you on a journey about the knowledge of chakras and introduce you to the first chakra "Muladhara". Be excited to get to know and understand the specific energy that this chakra produces.'
 authors: 
 - admin
 tags: []
