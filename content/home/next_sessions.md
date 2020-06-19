@@ -14,7 +14,7 @@ We do a **60 to 75 minutes beginner Kundalini Yoga set** together. You can join 
 
 #### ⏱️ When
 
-The class starts at **6 PM Central European Summer Time** ([Find your local time](https://savvytime.com/converter/germany-berlin-to-ca-san-francisco-ny-new-york-city-singapore-singapore/jun-6-2020/6pm)) but the [Zoom](https://zoom.us/) room opens **20 minutes earlier**. I recommend to show up early as participation is limited.
+The class starts at **6 PM Central European Summer Time** ([Find your local time](https://savvytime.com/converter/germany-berlin-to-ca-san-francisco-ny-new-york-city-singapore-singapore/jun-21-2020/6pm)) but the [Zoom](https://zoom.us/) room opens **20 minutes earlier**. I recommend to show up early as participation is limited.
 
 #### 💻 How
 
