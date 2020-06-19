@@ -12,7 +12,7 @@ draft: true
 join_banner: true
 
 image:
-  caption: Root Chakra
+  caption: Sacral Chakra
   focal_point: ""
   preview_only: false
 

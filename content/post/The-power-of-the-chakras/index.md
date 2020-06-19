@@ -81,7 +81,6 @@ Here you will find a list of **positions that can harmonize and strengthen the f
 - Mulbandh
 - Forward bending
 - Kick your bottom with your feet lying on your stomach
-- Sat Kriya
 
 However, in general I would like to point out again that this list is not a "universal remedy" and **everyone has to look for him or herself what works and what doesn't, where the individual possibilities and limits are!** It can serve as an aid that you are welcome to try if you feel like working on your first chakra. 
 
