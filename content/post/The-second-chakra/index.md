@@ -8,7 +8,7 @@ tags: []
 categories: []
 date: "2020-06-22T00:00:00Z"
 featured: false
-draft: false
+draft: true
 join_banner: true
 
 image:
