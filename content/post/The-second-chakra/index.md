@@ -1,14 +1,14 @@
 ---
-title: 'The second chakras'
+title: 'The second chakra'
 subtitle: A series about the 8 chakras of Kundalini Yoga - *Sacral Chakra*
-summary: 'I take you on a journey about the knowledge of chakras and introduce you to the first chakra "Muladhara". Be excited to get to know and understand the specific energy that this chakra produces.'
+summary: 'Get to know the specific power of the second chakra.'
 authors: 
 - admin
 tags: []
 categories: []
-date: "2020-06-17T00:00:00Z"
+date: "2020-06-22T00:00:00Z"
 featured: false
-draft: true
+draft: false
 join_banner: true
 
 image:
@@ -17,3 +17,4 @@ image:
   preview_only: false
 
 ---
+
