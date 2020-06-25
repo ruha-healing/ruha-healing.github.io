@@ -58,7 +58,7 @@ Another connection exists with the **sense of smell**. If you tend to hold on to
 
 - Sanskrit: Muladhara
 - Position: at the end of the spine between anus and genitals
-- colour: red
+- Color: red
 - Element: Earth
 - Psychological function: Self-protection, Survival
 - Challenge: Fear
