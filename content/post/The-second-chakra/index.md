@@ -42,11 +42,11 @@ If the second chakra **works well**, you live in **passion, motivation and with 
 People with a distinct, open second chakra **see the world in terms of feelings and desires, as a place to fulfill passions**. There is a passionate relationship to the liveliness itself, so that these people like to feel their liveliness. They devote themselves fully to the experience of life, live in the moment, feel joy and passion, accept their own emotions with confidence and live them out. They also like to let their sexual energy flow with devotion, enjoy it and have a sexual life marked by lust. 
 Furthermore, they **rarely feel guilt or shame** and live **in harmony with their true physical and emotional needs**, which they pursue with a healthy matter of course. **Self-acceptance** and **self-love** are often well developed on this basis and **inner balance** is present. 🧡
 
-### That is tasty! 
+### That's tasty! 
 
 The **sense** associated with this chakra is **taste**. It is interesting to note that the taste in your mouth **changes** when you **experience great passion**. When you practice yoga, for example, you enter into a connection with the infinite, which can trigger the production of the sweet nectar Amrit and finally a change in taste. 
 
-### Out of balance...
+### Out of balance ...
 
 However, the sacral chakra - just like any other chakra - can be blocked or disrupted and thus cause manifestations that can make living and acting difficult. This can happen, for example, when a person simply **lacks sensual, sexual and emotional experiences** or when **overwhelming and therefore too intense experiences** have been made in this area. Both extremes - undersupply as well as oversupply - lead to an imbalance or blockage.
 The consequences are visible through many characteristics, for example in **frozen emotions, feelings of guilt, boundless action and a lack of responsibility in relationships**. In addition, a **reduced flow of life energy** is often reported and an associated reduced joy of life, including **chronic fatigue and listlessness**. Due to a low level of passion, the own opinion is not very pronounced. Signs of a dysfunctional sacral chakra can also be seen in the acting out of sexuality. On the one hand there can be an **increased loss of libido**, i.e. a reduced desire for sexual interactions, and on the other hand there can be an **excessive desire for sex**, which is more likely to be described as sexual addiction or sexual mania. 
@@ -56,7 +56,7 @@ On a physical level, there can be problems with the **kidneys and reproductive o
 
 ![sakral chakra](sacral_chakra.png)
 
-### Main characteristics of the sacral/sexual chakra
+#### Main characteristics of the sacral/sexual chakra
 
 - Sanskrit: Svadisthana
 - Position: Genitals, one hand-width below the navel
