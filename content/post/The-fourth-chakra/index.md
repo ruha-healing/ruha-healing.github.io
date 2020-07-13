@@ -1,14 +1,15 @@
 ---
 title: 'The fourth chakra'
 subtitle: A series about the 8 chakras of Kundalini Yoga - *Heart Chakra*
-summary: 'Make yourself familiar with the unique power of the fourth chakra "...", where we focus on ....'
+#summary: 'Dive deeper into the qualities of the fourth chakra "Anahata", where we mainly focus on love and it's power.'
+summary: 'Dive deeper into the qualities of the fourth chakra "Anahata", where we mainly focus on love and its power.'
 authors: 
 - admin
 tags: []
 categories: []
-date: "2020-07-07T00:00:00Z"
+date: "2020-07-13T00:00:00Z"
 featured: false
-draft: true
+draft: false
 join_banner: true
 
 image:
@@ -66,6 +67,8 @@ The element assigned to the Anahata is **air**. It is symbolized by the **breath
 
 Here you can also find one of our senses, which is assigned to this chakra: the **sense of touch**. This means above all to **feel, perceive, touch and be touched** on various levels. 
 Also the connection to the **hands** stands for the ability to touch and feel.
+
+![Anahata](Anahata.png)
 
 #### Main features of the heart chakra
 
