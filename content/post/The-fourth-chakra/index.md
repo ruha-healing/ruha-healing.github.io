@@ -1,13 +1,12 @@
 ---
 title: 'The fourth chakra'
 subtitle: A series about the 8 chakras of Kundalini Yoga - *Heart Chakra*
-#summary: 'Dive deeper into the qualities of the fourth chakra "Anahata", where we mainly focus on love and it's power.'
-summary: 'Dive deeper into the qualities of the fourth chakra "Anahata", where we mainly focus on love and its power.'
+summary: 'Dive deeper into the qualities of the fourth chakra "Anahata", where the main focus is on love and its power.'
 authors: 
 - admin
 tags: []
 categories: []
-date: "2020-07-13T00:00:00Z"
+date: "2020-07-14T00:00:00Z"
 featured: false
 draft: false
 join_banner: true
@@ -27,6 +26,8 @@ As far as the colors are concerned, we are now in the space of **pink** and **gr
 The heart chakra is located **exactly in the middle of the first seven chakras** and **connects the lower triangle** (first 3 chakras) **to the upper triangle** ( 5th to 7th chakra). Thus it connects the **worldly dimension** (lower triangle), our **humanity**, with the **spiritual level** (upper triangle), our **soul**. It provides a balance between the lower energy flow of the earth and the flow of the upper energies of heaven and prepares the way **from the I to the WE**.
 The heart chakra, as the first chakra, becomes completely subtle. 
 The main focus within this chakra is on **love, awakening, trust, devotion, pain and forgiveness**. 🙏🏽
+
+### Love, love, love
 
 The Anahata has enormous power and significance. It processes the experiences of love as well as the subtle feelings and sensations associated with love. The energy of the heart chakra develops your capacity for **unconditional love and devotion**. In the heart dwells the **pure, universal love of your soul**. This brings with it the ability to accept all people and events with a **non-judgmental** acceptance, i.e. with **neutrality**. Through the love that then permeates you, you can feel and learn your own inner truth without condemnation. A space is opened to you in which you can feel everything. No pain or darkness can damage this strong unconditional love. 
 
@@ -55,7 +56,7 @@ Let's also look at the area of **communication**: communication from the heart c
 
 ### Can the heart chakra also be disturbed?
 
-Your heart chakra can also show blockages or disorders that can have various causes. In general the **experience and feeling of being separated from love** can lead to a traumatic experience. **Strong emotional pain** can then trigger blockages in the Anahata. This in turn can lead to **distrust** and a **refusal** or even **inability to love or be loved**. Blockages can also be caused by feelings of resentment or revenge, which in turn have their own individual history. The connection to the own heart can also be interrupted if a person has done something to others, which can lead to a strain on the soul and finally to **self rejection or condemnation**. 💔
+Your heart chakra can also show blockages or disorders that can have various causes - like every other chakra. In general the **experience and feeling of being separated from love** can lead to a traumatic experience. **Strong emotional pain** can then trigger blockages in the Anahata. This in turn can lead to **distrust** and a **refusal** or even **inability to love or be loved**. Blockages can also be caused by feelings of resentment or revenge, which in turn have their own individual history. The connection to the own heart can also be interrupted if a person has done something to others, which can lead to a strain on the soul and finally to **self rejection or condemnation**. 💔
 
 Generally speaking, one of the two poles of relationship is usually **overemphasized**: a narcissistic self-centredness and refusal to face the world or a self-sacrificing dependence on the love of others, even to the point of self-abandonment or even self-hate. Thus, overactivity of the heart chakra may lead to an **excess of compassion**. An undersupply, in turn, can end in **dependence** and a disturbed feeling for the own self. 
 
@@ -74,7 +75,7 @@ Also the connection to the **hands** stands for the ability to touch and feel.
 
 - Sanskrit: Anahata
 - Position: Heart centre, in the middle of the chest on the sternum
-- Color: gGreen (and Pink)
+- Color: Green (and Pink)
 - Element: Air
 - Psychological function: self-acceptance
 - Challenge: Grief
