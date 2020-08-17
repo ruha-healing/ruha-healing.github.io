@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 weight = 30  # Order that this section will appear.
 +++
 
-### Sunday, August 16, 6 PM CEST
+### Wednesday, August 26, 6 PM CEST
 
 🎁 This is a **free** class as a gift to help us through this exceptional time. 
 
@@ -14,7 +14,7 @@ We do a **60 to 75 minutes beginner Kundalini Yoga set** together. You can join 
 
 #### ⏱️ When
 
-The class starts at **6 PM Central European Summer Time** ([Find your local time](https://savvytime.com/converter/germany-berlin-to-ca-san-francisco-ny-new-york-city-singapore-singapore/aug-16-2020/6pm)) but the [Zoom](https://zoom.us/) room opens **20 minutes earlier**. I recommend to show up early as participation is limited.
+The class starts at **6 PM Central European Summer Time** ([Find your local time](https://savvytime.com/converter/germany-berlin-to-ca-san-francisco-ny-new-york-city-singapore-singapore/aug-26-2020/6pm)) but the [Zoom](https://zoom.us/) room opens **20 minutes earlier**. I recommend to show up early as participation is limited.
 
 #### 💻 How
 
