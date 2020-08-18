@@ -77,4 +77,4 @@ Again, this list of exercises is not a panacea. **Please always look for yoursel
 
 Within a Kundalini Yoga session usually different chakras are touched and activated, often with a focus. If you would like to know more about this or if you would like to book a Kundalini Yoga session with me on a specific chakra or topic, please **feel free to send me an email** as usual. ✉️
 
-In my next blog post I will dedicate myself to the **seventh chakra**. To keep up to date with my current posts, I invite you to follow me on my **social media channels** (facebook, twitter, instagram). 🙏🏽
+In my next blog post I will dedicate myself to the **seventh chakra**. To keep up to date with my current posts, I invite you to follow me on my **social media channels** ([facebook](https://www.facebook.com/ruhahealing), [twitter](https://twitter.com/ruhahealing), [instagram](https://www.instagram.com/ruhahealing)). 🙏🏽
