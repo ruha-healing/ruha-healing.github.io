@@ -22,16 +22,18 @@ Now it's actually happened that I am **active on Youtube**. I do this mainly to 
 
 ### How does that look like exactly?
 
-From now on there will be **regular uploads in my Youtube channel**. Once a month I would like to share a video from my **Kundalini Yoga Live Sessions** with you. This gives you the opportunity to get a taste of the world of Kundalini Yoga and to gain practical experience. Of course you can also get to know me and my way of teaching. 
-I would be very happy if you **use this opportunity** and practice Kundalini Yoga with me. 
+From now on there will be **regular uploads in my Youtube channel**. Once a month I would like to share a video from my **Kundalini Yoga live sessions** with you. This gives you the opportunity to get a taste of the world of Kundalini Yoga and to gain practical experience. Of course you can also get to know me and my way of teaching. 
+I would be very happy if you **use this opportunity** and practice Kundalini Yoga with me. 🧘🏽‍♂️
 
 ### Curious?
 
 Then **have a look** directly!
 
-Because it's just too precious to keep it for me, I share one of my Kundalini Yoga videos with you right now. Look at it with pleasure, spread out your mat and **dive into the world of Kundalini Yoga**. I teach a **Kriya for the nervous system** and end the class with the **meditation for a calm heart**. *Wahe Guru!*
+Because it's just too precious to keep it for me, I share one of my Kundalini Yoga videos with you right now. Look at it with pleasure, spread out your mat and **dive into the world of Kundalini Yoga**. I teach a **Kriya for the nervous system** and end the class with the **meditation for a calm heart**. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nXN0QW0yfvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+✨*Wahe Guru!* ✨
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIsdRLjWaMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### A look into the future
 
@@ -39,7 +41,7 @@ Furthermore, I plan to upload smaller videos for you on Youtube **regularly**. I
 
 ### But that's not all ...
 
-... because you can **sign up for my ongoing Kundalini Yoga Online Sessions at any time**. It takes place **every Sunday** and the **first Wednesday of every month**. There we practice Kundalini Yoga online in a familiar circle on various topics of life. You are welcome to register for a **free trial session** with me without any pressure. 
+... because you can **sign up for my ongoing Kundalini Yoga online sessions at any time**. It takes place **every Sunday** and the **first Wednesday of every month**. There we practice Kundalini Yoga online in a familiar circle on various topics of life. You are welcome to register for a **free trial session** with me without any pressure. 
 
 I am very happy to get to know you! 🥰
 
