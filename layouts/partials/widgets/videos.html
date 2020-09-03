@@ -1,4 +1,4 @@
-
+{{ $page := .page }}
   <div class="row">
     <div class="col-md-8 order-md-1 text-center text-md-left align-self-center">
       <iframe width="640" height="360" src="https://www.youtube.com/embed/OIsdRLjWaMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -9,7 +9,7 @@
           Checkout my <a href="https://www.youtube.com/channel/UCjR4h8QUBW_gUnXkfbEdKQA/featured" target="_blank">YouTube channel</a> and enjoy some <strong>free</strong> yoga sets.
         </h2>
         <p>
-          In addition to the videos on Youtube, participants get access to the recordings of <strong>all yoga sessions</strong>, so you never miss anything, even if you can't make it to one of my live sessions.
+          {{ $page.Content }}
         </p>
       </div>
     </div>
