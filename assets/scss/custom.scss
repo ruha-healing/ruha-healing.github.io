@@ -59,4 +59,49 @@
   #videos iframe {
     height: 360px;
   }
+
+  iframe.calendar-widget {
+    height: 805px;
+  }
+}
+
+.home-section {
+  background-color: #f7f7f7
+}
+
+.home-section:nth-of-type(even) {
+  background-color: white;
+}
+
+
+div#fitogram-booking-tool {
+  width: 100%;
+}
+
+div#fito-widget-container {
+  background: inherit !important;
+}
+
+div#fito-footer {
+  display: none !important;
+}
+
+div#fito-header {
+  background: none !important;
+
+  div, button {
+    background: none !important
+  }
+}
+
+#next_sessions {
+  padding-bottom: 0px;
+}
+
+.row.what-when-how-costs {
+  padding-bottom: 15px;
+}
+
+iframe.calendar-widget {
+  height: 600px;
 }
