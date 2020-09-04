@@ -17,8 +17,8 @@ Sat Nam, dear soul!
 There are **news** at Ruha Healing and I am totally happy to share them with you. 🤗 
 
 Imagine, **I have opened a [Youtube Channel](https://www.youtube.com/channel/UCjR4h8QUBW_gUnXkfbEdKQA)!** 
-Wow, I would never have thought that myself. If someone had asked me a year ago if I would create Youtube videos, I would have probably said no. And today? The reality looks completely different than I thought - as so often. 😉 That's exactly what makes it fun and exciting to live, that **we never know what the future will bring and that we should always stay open and flexible for everything that comes**. 
-Now it's actually happened that I am **active on Youtube**. I do this mainly to serve you in the yogic sense. The channel should be a **help for you to practice Kundalini Yoga regularly** and to connect with yourself through it. 
+Wow, I would never have thought that myself. If someone had asked me a year ago if I would create Youtube videos, I rather would have said no. And today? The reality looks completely different than I thought - as so often. 😉 That's exactly what makes it fun and exciting to live, that **we never know what the future will bring and that we should always stay open and flexible for everything that comes**. 
+Now it's actually happened that I am **active on Youtube**. I do this mainly to serve you in the yogic sense. The channel should be a **help for you to practice Kundalini Yoga regularly**, to dive deeper into this world and to connect with yourself through it. 
 
 ### How does that look like exactly?
 
