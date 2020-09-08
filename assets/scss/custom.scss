@@ -49,3 +49,14 @@
     color: #394b0d
   }
 }
+
+#videos iframe {
+  width: 100%;
+  height: 208px;
+}
+
+@media (min-width: 768px) {
+  #videos iframe {
+    height: 360px;
+  }
+}
