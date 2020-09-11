@@ -38,5 +38,10 @@ The “Ong Namo Guru Dev Namo” mantra is used to begin all Kundalini practices
 
 3. **Kriya**
 Next, you practice a Kriya of Kundalini Yoga to keep your physical body fit, strengthen circulation, release tension, and stimulate the Kundalini energy within you. A Kriya consists of movements, breathwork, chanting, and meditation.
+The choice of the Kriya is not prescribed, although certain Kriyas are particularly suitable for Sadhana. Those that work on the respiration, glands, nerves, and spine in a balanced way are especially useful. The Kriya should be generally energizing.
+As usual, the Kriya ends with deep relaxation and is followed by meditation.
+
+4. **Meditation** 
+...
 
 To read the **full article** on [YogiApproved](https://www.yogiapproved.com), click **[here](https://www.yogiapproved.com/om/kundalini-sadhana/)**! 
