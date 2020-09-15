@@ -80,6 +80,16 @@ The processing of the data entered in the contact form is thus exclusively based
 
 The data entered by you in the contact form will remain with us until you request us to delete it, revoke your consent to its storage or the purpose for which it was stored ceases to apply (e.g. after your enquiry has been processed). Mandatory legal provisions - in particular retention periods - remain unaffected.
 
+#### Fitogram Pro Software
+
+When you purchase a product through Fitogram Pro, a one-time registration is required to create a customer account, where you must provide your e-mail address, a password of your choice and your first and last name (the legal basis for the processing is Art. 6 par. 1 b) DSGVO). After you have logged in, you can delete your user account at any time. 
+If you create a user profile with fitogram GmbH, the data protection regulations of fitogram GmbH apply, which you can find at https://www.fitogram.pro/en/privacy-en/.
+
+The online registration is binding and legally valid even without signature. 
+If you would like to book services through this form, it is necessary for the conclusion of the contract that you provide personal data which is required for the processing of the booking. We process the data you provide to process the booking.
+
+The due course fee is to be paid at the time of booking and can be paid by credit card, SEPA direct debit mandate or manual bank transfer. The payment data will be transmitted automatically. If you choose direct debit as your payment method, we can pass on your payment data to our house bank if the direct debit mandate is issued accordingly. Legal basis for the above data processing is Art. 6 para. 1 p. 1 lit. b DSGVO.
+Due to commercial and tax law requirements, it is obligatory to store your address, payment and order data for a period of ten years.
 
 #### Objection, revocation, information, correction, blocking, deletion
 
