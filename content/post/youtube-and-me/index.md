@@ -41,7 +41,7 @@ Furthermore, I plan to upload smaller videos for you on Youtube **regularly**. I
 
 ### But that's not all ...
 
-... because you can **sign up for my ongoing Kundalini Yoga online sessions at any time**. It takes place **every Sunday** and the **first Wednesday of every month**. There we practice Kundalini Yoga online in a familiar circle on various topics of life. You are welcome to [register](https://ruhahealing.com/#next_sessions) for a **free trial session** with me without any pressure. 
+... because you can **sign up for my ongoing Kundalini Yoga online sessions at any time**. It takes place **every Sunday** and the **first Wednesday of every month**. There we practice Kundalini Yoga online in a familiar circle on various topics of life. You are welcome to [register](https://ruhahealing.com/#next_sessions) for a **free trial session**. 
 
 I am very happy to get to know you! 🥰
 
