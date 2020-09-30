@@ -1,7 +1,7 @@
 ---
 title: 'The seventh chakra'
 subtitle: A series about the 8 chakras of Kundalini Yoga - *Crown Chakra*
-summary: 'This chakra called "Sahasrara" has a strong power to open yourself up for spirituality and connect to the higher consciousness. Find out more in this post.'
+summary: 'This chakra called "Sahasrara" has a strong power to open you to spirituality and connect you to higher consciousness. You will learn more about it in this article.'
 authors: 
 - admin
 tags: []
@@ -36,7 +36,7 @@ In general, when strengthening the crown chakra, care must be taken to **avoid t
 ... you experience the **holistic transcendence of your identity as a separate person**. This step of development is often called **enlightenment**. You feel a feeling of **boundlessness**, without limitations. The world can be understood beyond your own mind. The intensive connection with the spiritual world enables a deep feeling of **inner peace, completely connected with divine love**. Thus, fears on the inside become a strange, unrelated feeling. 
 The opening of the crown chakra also means an opening towards the **divine guidance** in your own life. Everything that exists is perceived in unity and connectedness. Other people are met with **compassion** and **tolerance**. There is no urge (anymore) to change the fellow human beings. Life contexts are understood deeper and deeper on the spiritual level.
 
-### Can the Sahasrara also be blocked?
+### Can your Sahasrara also be blocked?
 
 In this chakra there exists more of an **underdevelopment** than a mere blockage or disorder. This underdevelopment seems to be widespread. 
 If a lot of anger accumulates in someone and this anger is projected in a diffuse way to a higher force, this can lead to a **total aversion and rejection of a connection to the Divine**. 
