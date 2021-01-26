@@ -66,8 +66,8 @@ So I have decided to offer a **new 11-day meditation challenge** to open the spa
 
 ![Take this challenge](Facebook_Post.jpeg)
 
-To **join** the upcoming Kundalini Yoga meditation, you can simply send me an [email](mailto:ruhahealing@gmail.com?subject=Join%20the%20meditation%20challenge)
-, then you will receive all the necessary details and after receipt of payment also the access link. 
+To **join** the upcoming Kundalini Yoga meditation, you can simply send me an [email](mailto:ruhahealing@gmail.com?subject=Join%20the%20meditation%20challenge) or contact me via my **social media channels** [facebook](https://www.facebook.com/ruhahealing), [twitter](https://twitter.com/ruhahealing) or  [instagram](https://www.instagram.com/ruhahealing). 🙏🏽
+Then you will receive all the necessary details and after receipt of payment also the access link. 
 
 **I am really looking forward to meet you and to start this meditation journey together with you.** 🙏 
 
