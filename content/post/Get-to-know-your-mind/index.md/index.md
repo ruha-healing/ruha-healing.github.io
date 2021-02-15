@@ -8,7 +8,7 @@ tags: []
 categories: []
 date: "2021-02-12T00:00:00Z"
 featured: false
-draft: false
+draft: true
 ---
 
 First, let's look at what exactly is behind your mind. Do you have any idea about it? Your mind is a **complex entity** and governs you in many ways.
