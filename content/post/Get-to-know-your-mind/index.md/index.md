@@ -6,9 +6,15 @@ authors:
 - admin
 tags: []
 categories: []
-date: "2021-02-12T00:00:00Z"
+date: "2021-02-17T00:00:00Z"
 featured: false
-draft: true
+draft: false
+
+image:
+  caption: 'Prayer Pose for Meditation'
+  focal_point: ""
+  preview_only: false
+
 ---
 
 First, let's look at what exactly is behind your mind. Do you have any idea about it? Your mind is a **complex entity** and governs you in many ways.
@@ -19,7 +25,7 @@ Your mind **serves your soul** and produces many more thoughts than you could ev
 
 Another important characteristic of the mind is its **urge to polarize**. This means that it prefers to sort everything into good and bad, positive and negative. Thus, your mind is always looking for **contrasts** in order to be able to classify things. And this works best through constant movement, so to speak always on the search. 
 
-You can understand your mind as its **own structure, process or current**, which you can **observe** yourself and finally also **change**. You can achieve changes, for example, through your own thoughts, conscious breathing or even certain foods. 
+You can understand your mind as its **own structure, process or current**, which you can **observe** yourself and finally also **change**. You can achieve changes, for example, through your own thoughts, conscious breathing or meditation. 
 
 Consequently, it is important that you **understand** the structure of your mind itself and discover **thought origins** in order to finally decide for yourself which thoughts are in accordance with and correspond to your **true self**. By clearly perceiving your thoughts, you can orient yourself to your **soul** and consciously follow its path. Consequently, you will also be able to perceive an awakening of your **intuition**, which will support you in living out your **destiny**.  
 All this is a complex process, because to observe your mind you need your mind, which in turn seems incredibly strong and almost unpredictable. Techniques to control your mind are mainly **meditations, breath control** and **mantras**. Through these you can find a certain **zero point**, a place where your mind is still. There is **calmness** there ... 
@@ -55,7 +61,7 @@ As already mentioned, **all** these parts are also present in you. The individua
 
 Basically it is the case that **EVERY** thought is filtered through the negative, positive and neutral mind. Your neutral mind then makes - provided it is developed accordingly - the decision that is best for you. 
 
-Through a developed neutral mind you stay **centered, whole** and **together**. The whole experience can be enjoyed in this way. But this neutral state of mind must first be **developed**, trained, experienced and refined. After that, any success in life is possible. Through the practice of **Kundalini Yoga and meditation**, you can develop and train your neutral mind and with it the capacity for intelligence, perseverance and **integrity**. Finally, with the neutral mind you can establish an intuitive way of seeing as well as **access to your own soul**. Your actions in this state are dignified and follow your **heart** as well as your soul. Your own light can penetrate outward and thus **infect other lights**, other souls. 🔆 Doesn't that sound wonderful? 
+Through a developed neutral mind you stay **centered, whole** and **together**. The whole experience can be enjoyed in this way. But this neutral state of mind must first be **developed**, trained, experienced and refined. After that, any success in life is possible. Through the practice of **Kundalini Yoga and meditation**, you can develop and train your neutral mind and with it the capacity for intelligence, perseverance and **integrity**. Meditating on a **regular** basis is one of the most important fundaments for a strong and supporting neutral mind. Finally, with the neutral mind you can establish an intuitive way of seeing as well as **access to your own soul**. Your actions in this state are dignified and follow your **heart** as well as your soul. Your own light can penetrate outward and thus **infect other lights**, other souls. 🔆 Doesn't that sound wonderful? 
 
 **You are welcome to join my regular Kundalini Yoga sessions.** The best way to register for them is [here](https://ruhahealing.com/#next_sessions). Of course, you can also send me an [email](mailto:ruhahealing@gmail.com?subject=Join%20the%20Kundalini%20Yoga%20sessions). 
 
