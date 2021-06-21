@@ -17,7 +17,7 @@ if output=$(git status --porcelain) && [ -z "$output" ]; then
   rm -rf ./public
 
   # Build the project.
-  hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+  ./hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
   # Add untracked public folder
   git add ./public -f
