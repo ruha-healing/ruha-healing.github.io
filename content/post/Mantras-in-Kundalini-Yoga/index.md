@@ -46,10 +46,10 @@ ONG NAMO GURU DEV NAMO
 #### Mangala Charan Mantra
 
 AD GURE NAMEH
-*(I salute the energy that is always there).*
+*(I salute the energy that is always there.)*
 
 JUGAD GURE NAMEH
-*(I salute the energy through all the ages).*
+*(I salute the energy through all the ages.)*
 
 SAT GURE NAMEH
 *(I salute the true energy.)*
@@ -77,6 +77,6 @@ Thus, each yoga session has a **clear framework** and also triggers trust throug
 
 In addition, there are many meditations that use a mantra. So-called *Celestial Communications* use a certain mantra recurrently and **connect the words with certain body movements**. Here the use of creativity is definitely allowed, so that different movements can be used in harmony with the mantra. This form of **meditation in movement** is something very special and unique, which you will find in this form in the yoga world only in Kundalini Yoga. 
 
-Would you like to get in touch with mantras and practice some Kundalini Yoga? Then feel welcome to join my yoga classes at any time. As a small gift from me, the first yoga session is free of charge, so you can join without any pressure. Feel free to sign up for it and dive into this fascinating Kundalini Yoga world of mantras and more. 
+Would you like to get in touch with mantras and practice some Kundalini Yoga? Then feel welcome to join my yoga classes at any time. As a small gift from me, the first yoga session is free of charge, so you can join without any pressure. Feel free to [**sign up**](https://ruhahealing.com/#next_sessions) for it and dive into this fascinating Kundalini Yoga world of mantras and more. 
 
-Have fun exploring the world of mantras & more. 
+Have fun exploring the world of mantras & more. 🎶
